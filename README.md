@@ -6,10 +6,7 @@ That approach can be found TODO:TODO
 
 ## Notable techno jargon
 - Typescript is fully supported with the help of [sanity-codegen](https://www.sanity.io/plugins/sanity-codegen) that some nerd made.
-But as i said its kinda crap how you fetch refarences like post -> author.
+But as i said its kinda crap how you fetch references like post -> author.
 
-## Run the thing
-```
 
-```
 
