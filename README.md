@@ -2,7 +2,7 @@
 Wanted to try out this combo and see what all the fuss was about.
 Its nice but this GROQ that sanity uses for queries is sus.
 Makes me wonder if the graphql support that sanity offers is better.
-That approach can be found TODO:TODO
+That approach can be found [here](https://github.com/Kristjan93/nextjs-sanity-graphql)
 
 ## Notable techno jargon
 - Typescript is fully supported with the help of [sanity-codegen](https://www.sanity.io/plugins/sanity-codegen) that some nerd made.
